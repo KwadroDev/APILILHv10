@@ -3,4 +3,4 @@ gcs.json
 .env
 images
 metadata
-package'lock.json
+package-lock.json
