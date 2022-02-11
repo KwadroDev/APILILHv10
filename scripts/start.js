@@ -1,11 +1,11 @@
 var MAX_SUPPLY = null
 const CONTRACT_ADDRESS = "0xfac5775552fC18B50B405872A78fD31b9e7735E9"
-const PORT = 3000
+const PORT = 80
 const IS_REVEALED = true
 const UNREVEALED_METADATA = {
     "name": "Unrevealed Little Horse",
     "description": "???",
-    "image": "http://104.248.239.189:3000/unrevealed/image.gif",
+    "image": "http://104.248.239.189:80/unrevealed/image.gif",
     "attributes": [{ "???": "???" }]
 }
 
